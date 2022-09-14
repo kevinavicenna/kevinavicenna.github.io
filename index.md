@@ -1,35 +1,17 @@
 ## Portfolio
-
 ---
-
-### Category Name 1 
-
-[OOP WITH PYTHON](https://github.com/kevinavicenna/PrakASD-L200200183)
+## Data
+### Data Structure With Python
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kevinavicenna/PrakASD-L200200183)
 <img src="images/1.png?raw=true"/>
 
----
-<!-- [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+### List Portofolio
 
----
-
-### Category Name 2
-
-- [OOP WITH PYTHON](https://github.com/kevinavicenna/PrakASD-L200200183)
+- [Algoritma Struktur Data](https://github.com/kevinavicenna/PrakASD-L200200183)
 <!-- - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/) -->
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
